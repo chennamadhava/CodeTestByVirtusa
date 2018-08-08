@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<person>
+<firstname>John Doe</firstname>
+<lastname>John Doe</lastname>
+<address>
+<line1>A House</line1>
+<line2>A Street</line2>
+<line3>A Country</line3>
+
+
+</address>
+
+</person>
